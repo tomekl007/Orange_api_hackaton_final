@@ -1,0 +1,724 @@
+06-27 20:02:53.089: I/mythread(25052): thread 34 processing 'synów pu³ku'
+06-27 20:02:53.589: I/mythread(25052): thread 32 processing 'ciep³ownia wola'
+06-27 20:03:01.909: I/mythread(25052): thread 32 processing 'po³czyñska-parking p+r'
+06-27 20:03:02.169: I/mythread(25052): thread 30 processing 'fort wola'
+06-27 20:03:02.439: I/mythread(25052): thread 32 processing 'cm.wolski'
+06-27 20:03:02.669: I/mythread(25052): thread 37 processing 'reduta wolska'
+06-27 20:03:02.849: I/mythread(25052): thread 33 processing 'ordona'
+06-27 20:03:03.169: I/mythread(25052): thread 38 processing 'dw.zachodni'
+06-27 20:03:10.669: I/mythread(25052): thread 36 processing 'grzyma³y-soko³owskiego'
+06-27 20:03:10.809: I/mythread(25052): thread 37 processing 'szczêœliwice'
+06-27 20:03:10.959: I/mythread(25052): thread 38 processing 'andersena'
+06-27 20:03:11.199: I/mythread(25052): thread 36 processing 'aspekt'
+06-27 20:03:11.379: I/mythread(25052): thread 30 processing 'cm.wawrzyszewski'
+06-27 20:03:12.009: I/mythread(25052): thread 33 processing 'œwiderska'
+06-27 20:03:15.169: I/mythread(25052): thread 39 processing 'stare œwidry'
+06-27 20:03:17.979: I/file(25052): 183 bytes saved
+06-27 20:03:17.989: I/line(25052): error while downloading data from API
+06-27 20:03:17.989: I/line(25052): status: Error
+06-27 20:03:17.989: I/line(25052): description: No result
+06-27 20:03:17.989: I/busstop(25052): deleting file with only error report 'stare œwidry.xml'
+06-27 20:03:18.099: I/mythread(25052): thread 30 processing 'porajów'
+06-27 20:03:18.169: I/mythread(25052): thread 34 processing 'myœliborska'
+06-27 20:03:22.489: I/mythread(25052): thread 39 processing 'tarchomin'
+06-27 20:03:25.799: I/mythread(25052): thread 34 processing 'mehoffera'
+06-27 20:03:25.919: I/mythread(25052): thread 37 processing 'stefanika'
+06-27 20:03:26.109: I/mythread(25052): thread 32 processing 'nowodwory'
+06-27 20:03:26.749: I/mythread(25052): thread 38 processing 'konarskiego'
+06-27 20:03:26.949: I/mythread(25052): thread 37 processing 'bia³owiejska'
+06-27 20:03:27.249: I/mythread(25052): thread 30 processing 'góralska'
+06-27 20:03:27.599: I/mythread(25052): thread 33 processing 'jana olbrachta'
+06-27 20:03:28.269: I/mythread(25052): thread 39 processing 'pkp ko³o'
+06-27 20:03:28.769: I/mythread(25052): thread 37 processing 'pl.narutowicza'
+06-27 20:03:29.269: I/mythread(25052): thread 35 processing 'pl.zawiszy'
+06-27 20:03:29.429: I/mythread(25052): thread 32 processing 'pl.starynkiewicza'
+06-27 20:03:29.769: I/mythread(25052): thread 31 processing 'dw.centralny'
+06-27 20:03:30.459: I/route(25052): start nodes
+06-27 20:03:30.459: I/route(25052): 6047 conrada
+06-27 20:03:30.459: I/route(25052): end nodes
+06-27 20:03:30.459: I/route(25052): 7046 pl.zamkowy
+06-27 20:03:30.459: I/route(25052): ===== search for routes, start from 6047 conrada
+06-27 20:03:30.849: I/route(25052): heap size 34296
+06-27 20:03:39.619: I/route(25052): reconstructPaths
+06-27 20:03:39.619: I/route(25052): searching (backward) routes from 7046 pl.zamkowy
+06-27 20:03:39.619: I/route(25052): visiting 7046 pl.zamkowy
+06-27 20:03:39.619: I/route(25052): visiting 6022 przybyszewskiego
+06-27 20:03:39.619: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.619: I/route(25052): found route: 
+06-27 20:03:39.619: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.619: I/route(25052): 6022 przybyszewskiego, then go by line 116
+06-27 20:03:39.619: I/route(25052): 6047 conrada, then go by line 112
+06-27 20:03:39.619: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.619: I/route(25052): found route: 
+06-27 20:03:39.619: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.619: I/route(25052): 6022 przybyszewskiego, then go by line 116
+06-27 20:03:39.619: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.619: I/route(25052): visiting 6022 przybyszewskiego
+06-27 20:03:39.619: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.619: I/route(25052): found route: 
+06-27 20:03:39.619: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.619: I/route(25052): 6022 przybyszewskiego, then go by line N44
+06-27 20:03:39.619: I/route(25052): 6047 conrada, then go by line 112
+06-27 20:03:39.619: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.619: I/route(25052): found route: 
+06-27 20:03:39.619: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.619: I/route(25052): 6022 przybyszewskiego, then go by line N44
+06-27 20:03:39.619: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.619: I/route(25052): visiting 6021 bielany-ratusz
+06-27 20:03:39.619: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.619: I/route(25052): found route: 
+06-27 20:03:39.619: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.629: I/route(25052): 6021 bielany-ratusz, then go by line 116
+06-27 20:03:39.629: I/route(25052): 6047 conrada, then go by line 112
+06-27 20:03:39.629: I/route(25052): visiting 6021 bielany-ratusz
+06-27 20:03:39.629: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.629: I/route(25052): found route: 
+06-27 20:03:39.629: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.629: I/route(25052): 6021 bielany-ratusz, then go by line N44
+06-27 20:03:39.629: I/route(25052): 6047 conrada, then go by line 112
+06-27 20:03:39.629: I/route(25052): visiting 6020 perzyñskiego
+06-27 20:03:39.629: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.629: I/route(25052): found route: 
+06-27 20:03:39.629: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.629: I/route(25052): 6020 perzyñskiego, then go by line 116
+06-27 20:03:39.629: I/route(25052): 6047 conrada, then go by line 112
+06-27 20:03:39.629: I/route(25052): visiting 6020 perzyñskiego
+06-27 20:03:39.629: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.629: I/route(25052): found route: 
+06-27 20:03:39.629: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.629: I/route(25052): 6020 perzyñskiego, then go by line N44
+06-27 20:03:39.629: I/route(25052): 6047 conrada, then go by line 112
+06-27 20:03:39.629: I/route(25052): visiting 6075 park kaskada
+06-27 20:03:39.629: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.629: I/route(25052): found route: 
+06-27 20:03:39.629: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.629: I/route(25052): 6075 park kaskada, then go by line 116
+06-27 20:03:39.629: I/route(25052): 6047 conrada, then go by line 112
+06-27 20:03:39.629: I/route(25052): visiting 6075 park kaskada
+06-27 20:03:39.629: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.629: I/route(25052): found route: 
+06-27 20:03:39.629: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.629: I/route(25052): 6075 park kaskada, then go by line N44
+06-27 20:03:39.629: I/route(25052): 6047 conrada, then go by line 112
+06-27 20:03:39.629: I/route(25052): visiting 6003 pl.wilsona
+06-27 20:03:39.629: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.629: I/route(25052): found route: 
+06-27 20:03:39.629: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.629: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.629: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.629: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.629: I/route(25052): found route: 
+06-27 20:03:39.629: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.629: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.629: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.629: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.629: I/route(25052): found route: 
+06-27 20:03:39.629: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.629: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.639: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.639: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.639: I/route(25052): found route: 
+06-27 20:03:39.639: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.639: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.639: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.639: I/route(25052): visiting 6003 pl.wilsona
+06-27 20:03:39.639: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.639: I/route(25052): found route: 
+06-27 20:03:39.639: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.639: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.639: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.639: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.639: I/route(25052): found route: 
+06-27 20:03:39.639: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.639: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.639: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.639: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.639: I/route(25052): found route: 
+06-27 20:03:39.639: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.639: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.639: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.639: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.639: I/route(25052): found route: 
+06-27 20:03:39.639: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.639: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.639: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.639: I/route(25052): visiting 6003 pl.wilsona
+06-27 20:03:39.639: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.639: I/route(25052): found route: 
+06-27 20:03:39.639: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.639: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.639: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.639: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.639: I/route(25052): found route: 
+06-27 20:03:39.639: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.639: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.639: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.639: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.639: I/route(25052): found route: 
+06-27 20:03:39.639: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.639: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.639: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.639: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.639: I/route(25052): found route: 
+06-27 20:03:39.639: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.649: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.649: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.649: I/route(25052): visiting 6003 pl.wilsona
+06-27 20:03:39.649: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.649: I/route(25052): found route: 
+06-27 20:03:39.649: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.649: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.649: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.649: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.649: I/route(25052): found route: 
+06-27 20:03:39.649: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.649: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.649: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.649: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.649: I/route(25052): found route: 
+06-27 20:03:39.649: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.649: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.649: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.649: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.649: I/route(25052): found route: 
+06-27 20:03:39.649: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.649: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.649: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.649: I/route(25052): visiting 6049 kwitn¹ca
+06-27 20:03:39.649: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.649: I/route(25052): found route: 
+06-27 20:03:39.649: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.649: I/route(25052): 6049 kwitn¹ca, then go by line 116
+06-27 20:03:39.649: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.649: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.649: I/route(25052): found route: 
+06-27 20:03:39.649: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.649: I/route(25052): 6049 kwitn¹ca, then go by line 116
+06-27 20:03:39.649: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.649: I/route(25052): visiting 6026 bogus³awskiego
+06-27 20:03:39.649: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.649: I/route(25052): found route: 
+06-27 20:03:39.659: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.659: I/route(25052): 6026 bogus³awskiego, then go by line 116
+06-27 20:03:39.659: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.659: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.659: I/route(25052): found route: 
+06-27 20:03:39.659: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.659: I/route(25052): 6026 bogus³awskiego, then go by line 116
+06-27 20:03:39.659: I/route(25052): 6047 conrada, then go by line N01
+06-27 20:03:39.659: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.659: I/route(25052): found route: 
+06-27 20:03:39.659: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.659: I/route(25052): 6026 bogus³awskiego, then go by line 116
+06-27 20:03:39.659: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.659: I/route(25052): visiting 6059 metro m³ociny
+06-27 20:03:39.659: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.659: I/route(25052): found route: 
+06-27 20:03:39.659: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.659: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.659: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.659: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.659: I/route(25052): found route: 
+06-27 20:03:39.659: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.659: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.659: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.659: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.659: I/route(25052): found route: 
+06-27 20:03:39.659: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.659: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.659: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.659: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.659: I/route(25052): found route: 
+06-27 20:03:39.659: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.659: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.659: I/route(25052): 6047 conrada, then go by line N01
+06-27 20:03:39.659: I/route(25052): visiting 6132 galla anonima
+06-27 20:03:39.659: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.659: I/route(25052): found route: 
+06-27 20:03:39.659: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.659: I/route(25052): 6132 galla anonima, then go by line 180
+06-27 20:03:39.659: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.669: I/route(25052): visiting 6131 kochanowskiego
+06-27 20:03:39.669: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.669: I/route(25052): found route: 
+06-27 20:03:39.669: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.669: I/route(25052): 6131 kochanowskiego, then go by line 180
+06-27 20:03:39.669: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.669: I/route(25052): visiting 6155 obroñców tobruku
+06-27 20:03:39.669: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.669: I/route(25052): found route: 
+06-27 20:03:39.669: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.669: I/route(25052): 6155 obroñców tobruku, then go by line 180
+06-27 20:03:39.669: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.669: I/route(25052): visiting 6129 gen.maczka
+06-27 20:03:39.669: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.669: I/route(25052): found route: 
+06-27 20:03:39.669: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.669: I/route(25052): 6129 gen.maczka, then go by line 180
+06-27 20:03:39.669: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.669: I/route(25052): visiting 6093 pow¹zki-cm.wojskowy
+06-27 20:03:39.669: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.669: I/route(25052): found route: 
+06-27 20:03:39.669: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.669: I/route(25052): 6093 pow¹zki-cm.wojskowy, then go by line 180
+06-27 20:03:39.669: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.669: I/route(25052): visiting 6091 elbl¹ska
+06-27 20:03:39.669: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.669: I/route(25052): found route: 
+06-27 20:03:39.669: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.669: I/route(25052): 6091 elbl¹ska, then go by line 180
+06-27 20:03:39.669: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.669: I/route(25052): visiting 6003 pl.wilsona
+06-27 20:03:39.669: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.669: I/route(25052): found route: 
+06-27 20:03:39.669: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.669: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.669: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.669: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.669: I/route(25052): found route: 
+06-27 20:03:39.669: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.669: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.669: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.669: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.669: I/route(25052): found route: 
+06-27 20:03:39.669: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.669: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.669: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.669: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.669: I/route(25052): found route: 
+06-27 20:03:39.669: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.669: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.669: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.679: I/route(25052): visiting 6003 pl.wilsona
+06-27 20:03:39.679: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.679: I/route(25052): found route: 
+06-27 20:03:39.679: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.679: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.679: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.679: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.679: I/route(25052): found route: 
+06-27 20:03:39.679: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.679: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.679: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.679: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.679: I/route(25052): found route: 
+06-27 20:03:39.679: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.679: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.679: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.679: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.679: I/route(25052): found route: 
+06-27 20:03:39.679: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.679: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.679: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.679: I/route(25052): visiting 6003 pl.wilsona
+06-27 20:03:39.679: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.679: I/route(25052): found route: 
+06-27 20:03:39.679: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.679: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.679: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.679: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.679: I/route(25052): found route: 
+06-27 20:03:39.679: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.679: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.679: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.679: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.679: I/route(25052): found route: 
+06-27 20:03:39.679: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.679: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.679: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.679: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.679: I/route(25052): found route: 
+06-27 20:03:39.679: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.679: I/route(25052): 6003 pl.wilsona, then go by line 116
+06-27 20:03:39.679: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.679: I/route(25052): visiting 6003 pl.wilsona
+06-27 20:03:39.679: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.679: I/route(25052): found route: 
+06-27 20:03:39.679: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.679: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.679: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.679: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.679: I/route(25052): found route: 
+06-27 20:03:39.679: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.679: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.679: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.679: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.679: I/route(25052): found route: 
+06-27 20:03:39.679: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.679: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.679: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.689: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.689: I/route(25052): found route: 
+06-27 20:03:39.689: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.689: I/route(25052): 6003 pl.wilsona, then go by line N44
+06-27 20:03:39.689: I/route(25052): 6047 conrada, then go by line 122
+06-27 20:03:39.689: I/route(25052): visiting 5043 pkp kasprzaka
+06-27 20:03:39.689: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.689: I/route(25052): found route: 
+06-27 20:03:39.689: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.689: I/route(25052): 5043 pkp kasprzaka, then go by line 178
+06-27 20:03:39.689: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.689: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.689: I/route(25052): found route: 
+06-27 20:03:39.689: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.689: I/route(25052): 5043 pkp kasprzaka, then go by line 178
+06-27 20:03:39.689: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.689: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.689: I/route(25052): found route: 
+06-27 20:03:39.689: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.689: I/route(25052): 5043 pkp kasprzaka, then go by line 178
+06-27 20:03:39.689: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.689: I/route(25052): visiting 5096 pr¹dzyñskiego
+06-27 20:03:39.689: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.689: I/route(25052): found route: 
+06-27 20:03:39.689: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.689: I/route(25052): 5096 pr¹dzyñskiego, then go by line 178
+06-27 20:03:39.689: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.689: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.689: I/route(25052): found route: 
+06-27 20:03:39.689: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.689: I/route(25052): 5096 pr¹dzyñskiego, then go by line 178
+06-27 20:03:39.689: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.689: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.689: I/route(25052): found route: 
+06-27 20:03:39.689: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.689: I/route(25052): 5096 pr¹dzyñskiego, then go by line 178
+06-27 20:03:39.689: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.689: I/route(25052): visiting 5097 armatnia
+06-27 20:03:39.689: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.689: I/route(25052): found route: 
+06-27 20:03:39.689: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.689: I/route(25052): 5097 armatnia, then go by line 178
+06-27 20:03:39.689: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.689: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.689: I/route(25052): found route: 
+06-27 20:03:39.689: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.689: I/route(25052): 5097 armatnia, then go by line 178
+06-27 20:03:39.689: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.689: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.689: I/route(25052): found route: 
+06-27 20:03:39.689: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.689: I/route(25052): 5097 armatnia, then go by line 178
+06-27 20:03:39.689: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.689: I/route(25052): visiting 3002 rakowiecka
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 3002 rakowiecka, then go by line 222
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.699: I/route(25052): visiting 3001 pl.unii lubelskiej
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 3001 pl.unii lubelskiej, then go by line 222
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.699: I/route(25052): visiting 3026 spacerowa
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 3026 spacerowa, then go by line 503
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.699: I/route(25052): visiting 3084 stêpiñska
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 3084 stêpiñska, then go by line 180
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.699: I/route(25052): visiting 3085 iwicka
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 3085 iwicka, then go by line 180
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.699: I/route(25052): visiting 3058 sielce
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 3058 sielce, then go by line 180
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.699: I/route(25052): visiting 6022 przybyszewskiego
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 6022 przybyszewskiego, then go by line 116
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 112
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 6022 przybyszewskiego, then go by line 116
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.699: I/route(25052): visiting 6022 przybyszewskiego
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 6022 przybyszewskiego, then go by line N44
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 112
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 6022 przybyszewskiego, then go by line N44
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.699: I/route(25052): visiting 6097 schroegera
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 6097 schroegera, then go by line N44
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.699: I/route(25052): visiting 6055 metro wawrzyszew
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 6055 metro wawrzyszew, then go by line N44
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.699: I/route(25052): visiting 6056 przytyk
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 6056 przytyk, then go by line N44
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.699: I/route(25052): visiting 6059 metro m³ociny
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.699: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.699: I/route(25052): found route: 
+06-27 20:03:39.699: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.699: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.699: I/route(25052): 6047 conrada, then go by line N01
+06-27 20:03:39.709: I/route(25052): visiting 6059 metro m³ociny
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line N01
+06-27 20:03:39.709: I/route(25052): visiting 5043 pkp kasprzaka
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 5043 pkp kasprzaka, then go by line 178
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 5043 pkp kasprzaka, then go by line 178
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 5043 pkp kasprzaka, then go by line 178
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.709: I/route(25052): visiting 5096 pr¹dzyñskiego
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 5096 pr¹dzyñskiego, then go by line 178
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 5096 pr¹dzyñskiego, then go by line 178
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 5096 pr¹dzyñskiego, then go by line 178
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.709: I/route(25052): visiting 5097 armatnia
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 5097 armatnia, then go by line 178
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 5097 armatnia, then go by line 178
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 5097 armatnia, then go by line 178
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.709: I/route(25052): visiting 6024 aspekt
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 6024 aspekt, then go by line 116
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line N01
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 6024 aspekt, then go by line 116
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.709: I/route(25052): visiting 6025 cm.wawrzyszewski
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 6025 cm.wawrzyszewski, then go by line 116
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line N01
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 6025 cm.wawrzyszewski, then go by line 116
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.709: I/route(25052): visiting 6026 bogus³awskiego
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 6026 bogus³awskiego, then go by line 116
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 6026 bogus³awskiego, then go by line 116
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line N01
+06-27 20:03:39.709: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.709: I/route(25052): found route: 
+06-27 20:03:39.709: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.709: I/route(25052): 6026 bogus³awskiego, then go by line 116
+06-27 20:03:39.709: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.719: I/route(25052): visiting 6059 metro m³ociny
+06-27 20:03:39.719: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.719: I/route(25052): found route: 
+06-27 20:03:39.719: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.719: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.719: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.719: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.719: I/route(25052): found route: 
+06-27 20:03:39.719: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.719: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.719: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.719: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.719: I/route(25052): found route: 
+06-27 20:03:39.719: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.719: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.719: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.719: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.719: I/route(25052): found route: 
+06-27 20:03:39.719: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.719: I/route(25052): 6059 metro m³ociny, then go by line N44
+06-27 20:03:39.719: I/route(25052): 6047 conrada, then go by line N01
+06-27 20:03:39.719: I/route(25052): visiting 5043 pkp kasprzaka
+06-27 20:03:39.719: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.719: I/route(25052): found route: 
+06-27 20:03:39.719: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.719: I/route(25052): 5043 pkp kasprzaka, then go by line 178
+06-27 20:03:39.719: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.719: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.719: I/route(25052): found route: 
+06-27 20:03:39.719: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.719: I/route(25052): 5043 pkp kasprzaka, then go by line 178
+06-27 20:03:39.719: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.719: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.719: I/route(25052): found route: 
+06-27 20:03:39.719: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.719: I/route(25052): 5043 pkp kasprzaka, then go by line 178
+06-27 20:03:39.719: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.729: I/route(25052): visiting 5096 pr¹dzyñskiego
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 5096 pr¹dzyñskiego, then go by line 178
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 5096 pr¹dzyñskiego, then go by line 178
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 5096 pr¹dzyñskiego, then go by line 178
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.729: I/route(25052): visiting 5097 armatnia
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 5097 armatnia, then go by line 178
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line 167
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 5097 armatnia, then go by line 178
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line 184
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 5097 armatnia, then go by line 178
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.729: I/route(25052): visiting 6024 aspekt
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 6024 aspekt, then go by line 116
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line N01
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 6024 aspekt, then go by line 116
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.729: I/route(25052): visiting 6025 cm.wawrzyszewski
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 6025 cm.wawrzyszewski, then go by line 116
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line N01
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 6025 cm.wawrzyszewski, then go by line 116
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.729: I/route(25052): visiting 6026 bogus³awskiego
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 6026 bogus³awskiego, then go by line 116
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 6026 bogus³awskiego, then go by line 116
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line N01
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 6026 bogus³awskiego, then go by line 116
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line N43
+06-27 20:03:39.729: I/route(25052): visiting 6049 kwitn¹ca
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 6049 kwitn¹ca, then go by line 116
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line 114
+06-27 20:03:39.729: I/route(25052): visiting 6047 conrada
+06-27 20:03:39.729: I/route(25052): found route: 
+06-27 20:03:39.729: I/route(25052): 7046 pl.zamkowy, then go by line (finish)
+06-27 20:03:39.729: I/route(25052): 6049 kwitn¹ca, then go by line 116
+06-27 20:03:39.729: I/route(25052): 6047 conrada, then go by line N43
